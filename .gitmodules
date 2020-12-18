@@ -1,0 +1,3 @@
+[submodule "modules/modules/MMM-MyScoreboard"]
+	path = modules/modules/MMM-MyScoreboard
+	url = https://github.com/Logan-Soldo/MagicMirror
